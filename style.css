@@ -22,9 +22,10 @@ p {
 
 .Social_Media_Icons {
 
+         float: right;
          display: inline;
-         width: 25px;
-         height: 25px;
+         
+      
          padding: 15px;
          margin: 0px;
          
