@@ -64,7 +64,15 @@ p {
          
         }
     
-   
+a:link { 
+         color: white;
+	 font-size: 14px;
+	 font-style: normal;
+	 font-family: helvetica;
+         font-weight: bold;
+	 text-decoration: none;
+
+}   
          
 
 
