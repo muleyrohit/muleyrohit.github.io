@@ -78,7 +78,7 @@ a:link {
 }
 
 
-.pagelinks {
+a.pagelinks {
              font-size: 8px;
              font-style: normal;
              font-family: verdana;
