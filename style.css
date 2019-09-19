@@ -79,7 +79,7 @@ a:link {
 
 
 .pagelinks {
-             font-size: 12px;
+             font-size: 10px;
              font-style: normal;
              font-family: verdana;
              text-decoration: underline;
@@ -87,5 +87,12 @@ a:link {
 
 }   
          
-
+.sectionlinks {
+                font-size: 16px;
+                font-style: normal;
+                font-family: helvetica;
+                font-weight: bold;
+                text-decoration: none;
+}
+      
 
