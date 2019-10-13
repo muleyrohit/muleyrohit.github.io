@@ -29,9 +29,9 @@ footer {
 
 
 
-p {
-    font-family: Times New Roman;
-    font-size: 16px;
+body {
+    font-family: Helvetica;
+    font-size: 14px;
     margin: 60px;
     width: 300px;
     padding: 10px;
@@ -39,6 +39,7 @@ p {
     
     
   }
+
 
 .Intro { 
          position: absolute;
@@ -94,5 +95,31 @@ a:link {
                 font-weight: bold;
                 text-decoration: none;
 }
+
+	
+	
+#left {
+  height: 1px;
+  float: left;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  margin-top: 20px;
+  float: left;
+  width: 700px;
+}
+
+#content p {
+  color: #333;
+  line-height: 18px;
+}
+
+
       
 
