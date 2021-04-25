@@ -1,2 +1,2 @@
-# blitzrohit.github.io
+# muleyrohit.github.io
 My Website
