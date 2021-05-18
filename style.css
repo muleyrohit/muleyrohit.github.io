@@ -86,8 +86,8 @@ a:link {
                 font-size: 16px;
                 font-style: normal;
                 font-family: helvetica;
-                font-weight: normal;
-                text-decoration: none;
+                font-weight: regular;
+                text-decoration: underline;
 }
 
 	
