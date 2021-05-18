@@ -60,7 +60,7 @@ body {
          margin: 0;
          
         }
-    
+/* 
 a:link { 
 	 background-color: white;
          font-color: Crimson;
@@ -71,7 +71,7 @@ a:link {
 	 text-decoration: none;
 
 }
-
+*/
 
 .pagelinks {
              font-size: 10px;
@@ -86,7 +86,7 @@ a:link {
                 font-size: 16px;
                 font-style: normal;
                 font-family: helvetica;
-                font-weight: regular;
+               /* font-weight: regular;*/
                 text-decoration: underline;
 }
 
