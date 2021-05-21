@@ -1,44 +1,47 @@
 body {
-	font-family: helvetica;
-	font-size: 13;
+  font-family: Helvetica;
+  font-size: 15px;
 }
 
 
-#home {
-	float: left;
-	margin-top: 50px;
-	margin-left: 20px;
-	text-align: left;
-	width: 150px;
-	font-family: "Myriad Pro", "Helvetica Neue", "Helvetica";
+header {
+    background-color : white;
+    color: black;
+    
+    height: 120px;
+    width: 100%;
+  }  
+
+
+a:link { 
+	 background-color: white;
+   font-color: Crimson;
+	 font-size: 14px;
+	 font-style: normal;
+	 font-family: helvetica;
+   font-weight: bold;
+	 text-decoration: none;
+
 }
 
-#home .title {
+#left {
+  height: 1px;
+  float: left;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  width: 400px;
+  margin: 0;
+  padding: 0;
 }
 
-#home ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+#content {
+  margin-top: 120px;
+  float: left;
+  width: 700px;
 }
 
-#home li {
+#content p {
+  color: #333;
+  line-height: 18px;
 }
-
-#home li a {
-	display: inline-block;
-	color: #0864c7;
-}
-
-
-#right {
-	height: 1px;
-	float: right;
-	display: block;
-	min-width: 0;
-	overflow: hidden;
-	width: 200px;
-	margin: 0;
-	padding: 0;
-}
-
