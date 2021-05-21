@@ -1,130 +1,33 @@
-* { 
-    box-sizing: border-box;
-  }
-
-header {
-    background-color : white;
-    color: black;
-    
-    height: 20px;
-    width: 100%;
-  }  
-
-
-h1 {
-    width: 100%;
-
- }
-
-
-
-
-
-footer {
-    background-color: grey;
-    height:;
-    width: 100%;
-
-  }
-
-
-
 body {
-    font-family: Helvetica;
-    font-size: 15px;
-   }
-
-
-.Intro { 
-         position: absolute;
-         
-        
-         
-         
-         left: 400px;
-         top: 50px; 
-         
-         border: 2px solid black;
-         padding: 10px;
-         
-         
-        }
-
-.Social_Media_Icons {
-
-         float: right;
-         display: inline;
-         
-         
-         padding: 5px 3px;
-         margin: 0;
-         
-        }
-/* 
-a:link { 
-	 background-color: white;
-         font-color: Crimson;
-	 font-size: 14px;
-	 font-style: normal;
-	 font-family: helvetica;
-         font-weight: bold;
-	 text-decoration: none;
-
-}
-*/
-/*
-.pagelinks {
-             font-size: 10px;
-             font-style: normal;
-             font-family: verdana;
-             text-decoration: underline;
-
-
-}   
-*/         
-.sectionlinks {
-                font-size: 14px;
-                font-style: normal;
-                font-family: helvetica;
-               /* font-weight: regular;*/
-                text-decoration: none;
-		margin-top: 100px;
-}
-
-	
-	
-#left {
-  height: 1px;
-  float: left;
-  display: block;
-  min-width: 0;
-  overflow: hidden;
-  width: 400px;
-  margin: 0;
-  padding: 0;
-}
-
-#content {
-  margin-top: 50px;
-  float: left;
-  width: 700px;
-}
-
-#content p {
-  color: #333;
-  line-height: 18px;
-  text-align:jusify;
-}
-
-#Quick_Link {
-	font-size:13px;
-	font-style:normal;
-	font-family:helvetica;
-	font-weight:regular;
-	text-decoration:underline;
-        
+	font-family: helvetica;
+	font-size: 13;
 }
 
 
-      
+#home {
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+	text-align: left;
+	width: 150px;
+	font-family: "Myriad Pro", "Helvetica Neue", "Helvetica";
+}
+
+#home .title {
+}
+
+#home ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#home li {
+}
+
+#home li a {
+	display: inline-block;
+	color: #0864c7;
+}
+
 
