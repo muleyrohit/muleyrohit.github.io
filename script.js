@@ -4,8 +4,8 @@ var links = [
     "google.com",
     "youtube.com",
     "facebook.com",
-    "",
-    ""
+    "muleyrohit.github.io/Quotes/",
+    "google.com"
 
 ];
 
