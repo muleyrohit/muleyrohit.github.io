@@ -17,5 +17,5 @@ openStuff = function () {
     // construct the link to be opened
     var link = 'http://' + links[randIdx];
     // open it in a new window / tab (depends on browser setting)
-    window.open(link);
+    window.open(link, "_self");
 };
