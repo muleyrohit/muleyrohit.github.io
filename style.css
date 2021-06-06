@@ -6,7 +6,7 @@ body {
 
 header {
     background-color : white;
-    color: DarkRed;
+    color: black;
     
     height: 120px;
     width: 100%;
@@ -22,7 +22,7 @@ a {
 
 a:link { 
 	 background-color: white;
-         color: black;
+         color: DarkRed;
 	 font-size: 14px;
 	 font-style: normal;
 	 font-family: helvetica;
