@@ -100,4 +100,6 @@ a:active {
 #content p {
   color: #333;
   line-height: 22px;
+  font-weight: bold;
+  font-style: italic;
 }
