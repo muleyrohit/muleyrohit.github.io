@@ -59,6 +59,9 @@ a:active {
 
 /*   Links Section Ends   */
 
+
+	
+
 #left {
   height: 1px;
   float: left;
@@ -69,6 +72,30 @@ a:active {
   margin: 0;
   padding: 0;
 }
+
+#dashboard {
+  /* margin-top: 120px; */
+  float: left;
+  width: 400px;
+}
+
+#dashboard p {
+  color: #333;
+  line-height: 22px
+}
+
+#dashboard a:link {
+  background-color: white;
+  color: darkgreen;
+  font-size: 14px;
+  font-style: normal;
+  font-family: helvetica;
+  font-weight: bold;
+  text-decoration: none;
+	
+}
+
+
 
 #content {
   /* margin-top: 120px; */
