@@ -71,7 +71,7 @@ a:active {
 }
 
 #content {
-  margin-top: 120px;
+  /* margin-top: 120px; */
   float: left;
   width: 400px;
 }
