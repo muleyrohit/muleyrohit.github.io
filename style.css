@@ -87,7 +87,7 @@ a:active {
 #dashboard p {
   color: #333;
   line-height: 22px;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 #dashboard a:link {
@@ -134,5 +134,6 @@ a:active {
   color: #333;
   line-height: 22px;
   font-weight: bold; 
+  font-size: 13px;
  /* font-style: italic;*/
 }
