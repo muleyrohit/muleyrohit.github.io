@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 
@@ -86,7 +86,8 @@ a:active {
 
 #dashboard p {
   color: #333;
-  line-height: 22px
+  line-height: 22px;
+  font-size: 13px;
 }
 
 #dashboard a:link {
